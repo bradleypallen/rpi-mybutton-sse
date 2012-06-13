@@ -2,10 +2,7 @@
 
 ## Overview
 
-This is a simple demo that mashes up the introductory GPIO project
-described in [The MagPi][1] Issue 2 (June 2012), p.10 with a Python
-Flask server running on the Raspberry Pi that pushes [server-sent
-events][2] to web browsers across the network.
+This is a [simple demo][1] that mashes up the introductory GPIO project described in [The MagPi][2] Issue 2 (June 2012), p.10 with a Python Flask server running on the Raspberry Pi that pushes [server-sent events][3] to web browsers across the network.
 
 ## Requirements
 
@@ -16,8 +13,8 @@ events][2] to web browsers across the network.
 
 ### Software
 
-* [Flask][3]
-* [RPi.GPIO][4]
+* [Flask][4]
+* [RPi.GPIO][5]
 
 ## Installation
 
@@ -40,12 +37,13 @@ Assuming Git is available on your Raspberry Pi, do the following:
 * Press the button on the circuit and watch data describing the event appear in a list on the page.
   
 ## License
-This software is provided under terms of an [MIT License][5].
+This software is provided under terms of an [MIT License][6].
 
-[1]: http://www.themagpi.com/
-[2]: http://www.w3.org/TR/eventsource/
-[3]: http://flask.pocoo.org/
-[4]: http://pypi.python.org/pypi/RPi.GPIO
-[5]: http://www.opensource.org/licenses/mit-license.php
+[1]: http://youtu.be/cNqQdmjYfLQ
+[2]: http://www.themagpi.com/
+[3]: http://www.w3.org/TR/eventsource/
+[4]: http://flask.pocoo.org/
+[5]: http://pypi.python.org/pypi/RPi.GPIO
+[6]: http://www.opensource.org/licenses/mit-license.php
 
 
