@@ -35,14 +35,14 @@ events][2] to web browsers across the network.
 
 ### From a web browser
 
-* Go to http://<ip address of your Raspberry Pi>:5000/.
+* Go to http://\<ip address of your Raspberry Pi\>:5000/.
 * Press the switch on the circuit and watch the event appear in a list
   on the page.
 
-  [1] http://www.themagpi.com/
-  [2] http://www.w3.org/TR/eventsource/
-  [3] http://git-scm.com/
-  [4] http://flask.pocoo.org/
+[1]: http://www.themagpi.com/
+[2]: http://www.w3.org/TR/eventsource/
+[3]: http://git-scm.com/
+[4]: http://flask.pocoo.org/
   [5] http://pypi.python.org/pypi/RPi.GPIO
 
 
