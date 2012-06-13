@@ -43,6 +43,6 @@ events][2] to web browsers across the network.
 [2]: http://www.w3.org/TR/eventsource/
 [3]: http://git-scm.com/
 [4]: http://flask.pocoo.org/
-  [5] http://pypi.python.org/pypi/RPi.GPIO
+[5]: http://pypi.python.org/pypi/RPi.GPIO
 
 
