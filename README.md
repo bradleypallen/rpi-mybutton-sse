@@ -22,8 +22,10 @@ events][2] to web browsers across the network.
 
 ## Installation
 
-    $ git clone https://github/bradleypallen/rpi-mybutton-sse.git
-    $ cd rpi-mybutton-sse
+Install Git on your Raspberry Pi, then do the following:
+
+    $ git clone https://github.com/bradleypallen/rpi-mybutton-sse.git
+    $ cd rpi-mybutton-sse/
     $ sudo easy_install flask
     $ sudo easy_install RPi.GPIO
 
@@ -35,14 +37,18 @@ events][2] to web browsers across the network.
 
 ### From a web browser
 
-* Go to http://\<ip address of your Raspberry Pi\>:5000/.
+* Go to http://\<ip-address-of-your-Raspberry-Pi\>:5000/.
 * Press the switch on the circuit and watch the event appear in a list
   on the page.
+  
+## License
+This software is provided under terms of an [MIT License][6].
 
 [1]: http://www.themagpi.com/
 [2]: http://www.w3.org/TR/eventsource/
 [3]: http://git-scm.com/
 [4]: http://flask.pocoo.org/
 [5]: http://pypi.python.org/pypi/RPi.GPIO
+[6]: http://www.opensource.org/licenses/mit-license.php
 
 
