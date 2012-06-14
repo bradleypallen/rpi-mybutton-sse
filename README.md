@@ -2,7 +2,9 @@
 
 ## Overview
 
-This is a [simple experimental demo][1] that mashes up the introductory GPIO project described in [The MagPi][2] Issue 2 (June 2012), p.10 with a Python Flask server running on the Raspberry Pi that pushes [server-sent events][3] to web browsers across the network.
+rpi-mybutton-sse is a simple experimental application that mashes up the introductory GPIO project described in [The MagPi][2] Issue 2 (June 2012), p.10 with a Python Flask server running on the Raspberry Pi that pushes [server-sent events][3] to web browsers across the network whenever the button in the project's circuit is pressed. 
+
+[This YouTube video][1] walks through the implementation and demonstrates the running application.
 
 ## Requirements
 
